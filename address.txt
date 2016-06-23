@@ -1,3 +1,6 @@
 ﻿1.http://www.androiddevtools.cn/
 2.返回数据:{"error":0,"msg":"null","data":{"amount":1.0,"consultant_state":0}}
 总共发出：count:269
+返回数据错误
+3.good git add vim 
+
