@@ -5,5 +5,5 @@
 3.good git add vim 
 4.ni hao
 5. git diff git --cached:
-
+6.modify
 
